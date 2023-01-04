@@ -257,4 +257,6 @@ This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). The acknowledgement https://www.behance.net/gallery/29845175/CC-Global-Summit-2015._
 
+Credit given to [Nidalaa](https://github.com/microverseinc/curriculum-cr-training-contact-form)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
