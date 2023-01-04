@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Review past project</b></h3>
+  <h3><b>Mobile menu</b></h3>
 
 </div>
 
@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Review Past Project] <a name="about-project"></a>
+# 📖 [Mobile menu] <a name="about-project"></a>
 
 > This is a simple front end application that shows the speakers on the conference with the pictures and profile description. 
 
-**[Review Past Project]** is a...
+**[Mobile menu]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -134,7 +134,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:AlphaNtihinduka/review_past_project.git
+  git clone git@github.com:AlphaNtihinduka/mobile_menu.git
 ```
 
 ### Install
@@ -142,7 +142,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd review_past_project
+  cd mobile_menu
 ```
 
 ### Usage
@@ -210,7 +210,7 @@ github webpages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AlphaNtihinduka/review_past_project/issues).
+Feel free to check the [issues page](https://github.com/AlphaNtihinduka/mobile_menu/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
