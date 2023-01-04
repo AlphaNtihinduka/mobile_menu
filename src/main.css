@@ -279,6 +279,10 @@ li {
   cursor: pointer;
 }
 
+.header-slide-links li {
+  padding: 8px;
+}
+
 .project-stacks li:hover {
   background: rgba(0, 0, 0, 0.349);
 }
@@ -417,6 +421,44 @@ textarea {
     brightness(92%) contrast(82%);
 }
 
+.menu-bar {
+  flex-direction: column;
+  background-color: #3c3a39;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: none;
+  height: 90vh;
+}
+
+.header-slide-links {
+  color: white;
+  left: 0;
+  top: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 50px 30px;
+  z-index: 20;
+  transition: 0.5s;
+}
+
+.fa-times {
+  position: absolute;
+  top: 5%;
+  left: 8%;
+  color: #fff;
+  height: 12px;
+  width: 12px;
+}
+
+.header-slide-links a {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 @media all and (min-width: 720px) {
   .top-social {
     flex-direction: column;
@@ -439,10 +481,6 @@ textarea {
     display: flex;
     flex-direction: column;
     justify-content: center;
-  }
-
-  .menu-bars {
-    display: none;
   }
 
   #desktop-nav {
