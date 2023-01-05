@@ -429,24 +429,24 @@ textarea {
   left: 0;
   width: 100%;
   display: none;
-  height: 90vh;
+  height: 20vh;
 }
 
 .header-slide-links {
   color: white;
   left: 0;
-  top: 0;
   width: 100%;
   min-height: 100vh;
-  padding: 50px 30px;
+  padding: 50px;
   z-index: 20;
   transition: 0.5s;
+  padding-left: 1rem;
 }
 
 .fa-times {
   position: absolute;
-  top: 5%;
-  left: 8%;
+  top: 1%;
+  right: 8%;
   color: #fff;
   height: 12px;
   width: 12px;
@@ -454,9 +454,11 @@ textarea {
 
 .header-slide-links a {
   color: #fff;
-  font-size: 32px;
+  font-size: 25px;
   font-weight: bold;
   text-decoration: none;
+  border-bottom: 1px solid grey;
+  display: flex;
 }
 
 @media all and (min-width: 720px) {
